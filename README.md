@@ -2,8 +2,7 @@
 
 # :sparkles: ​Nice to see you～
 
-- :school: Undergraduate student majoring in **Data Science & Big Data Technology**
-- :book: Focusing on **Python / Java / Scala**
-- :briefcase: Eager to work for **Data Mining / Data Analyzing / Artificial Intelligence** 
+- :school: Student majoring in **Data Science & Big Data Technology**, undergraduated in 2021
+- :book: Focusing on **Python**
+- :briefcase: Currently working in **Fii IPHM of Foxconn Group** as a **Data Analysists** 
 - :badminton: Enjoy in sports, especially **badminton**
-
