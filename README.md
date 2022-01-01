@@ -1,24 +1,19 @@
-<div style="width: 100%;">
-  <div style="text-align: center; padding-bottom: 20px;">
-    <h1>✨ Nice to see you～</h1>
-  </div>
-  <div style="width: 50%; text-align: center; float: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dragon1573&show_icons=true&count_private=true&theme=dracula&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Starts" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon1573&hide=javascript,pascal,html" alt="Top Languages" />
-  </div>
-  <div style="width: 50%; float: right;">
+# ✨ Nice to see you～</h1>
 
-|       Informations        |               Details               |
-|:-------------------------:|:-----------------------------------:|
-|          Gender           |                Male                 |
-|           Birth           |             April, 1999             |
-|         Education         |           Undergraduates            |
-|           Major           | Data Science & Big Data Technology  |
-|   Native Human Language   |  Simplified Chinese<br />Cantonese  |
-| Main Programming Language |              Python 3               |
-|          Office           |     Foxconn Industrial Internet     |
-|            Job            | Data Analyst of Industrial Datasets |
-|          Hobbies          |      Badminton<br />Traveling       |
+## My Details
 
-  </div>
-</div>
+|       Informations        |               Details               |       Informations        |               Details               |
+|:-------------------------:|:-----------------------------------:|:-------------------------:|:-----------------------------------:|
+|          Gender           |                Male                 | Main Programming Language |              Python 3               |
+|           Birth           |             April, 1999             |          Office           |     Foxconn Industrial Internet     |
+|         Education         |           Undergraduates            |            Job            | Data Analyst of Industrial Datasets |
+|           Major           | Data Science & Big Data Technology  |        Salary Level       |                VIP 2                |
+|   Native Human Language   |  Simplified Chinese<br />Cantonese  |          Hobbies          |      Badminton<br />Traveling       |
+
+## My Social Informations
+
+![GitHub Info](https://stats.justsong.cn/api/github?username=Dragon1573&theme=dark)
+![CSDN Info](https://stats.justsong.cn/api/csdn?id=u011367208&theme=dark)
+
+![Leetcode-CN Info](https://stats.justsong.cn/api/leetcode/?username=Dragon1573&cn=true&theme=dark)
+![Bilibili Info](https://stats.justsong.cn/api/bilibili/?id=289561900&theme=dark)
