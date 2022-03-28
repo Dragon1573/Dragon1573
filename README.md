@@ -1,19 +1,21 @@
-# ✨ Nice to see you～</h1>
+# :heart: Nice to see you ~ </h1>
+
+This is [@Dragon1573](https://github.com/Dragon1573), welcome to my GitHub Profile Page!
 
 ## My Details
 
 |       Informations        |               Details               |       Informations        |               Details               |
 |:-------------------------:|:-----------------------------------:|:-------------------------:|:-----------------------------------:|
 |          Gender           |                Male                 | Main Programming Language |              Python 3               |
-|           Birth           |             April, 1999             |          Office           |     Foxconn Industrial Internet     |
-|         Education         |           Undergraduates            |            Job            | Data Analyst of Industrial Datasets |
-|           Major           | Data Science & Big Data Technology  |        Salary Level       |                VIP 2                |
+|           Birth           |             April, 1999             |          Office           |           Huawei Cloud BU           |
+|         Education         |           Undergraduates            |            Job            |      Software Testing Engineer      |
+|           Major           | Data Science & Big Data Technology  |        Salary Level       |                OD 1                 |
 |   Native Human Language   |  Simplified Chinese<br />Cantonese  |          Hobbies          |      Badminton<br />Traveling       |
 
 ## My Social Informations
 
-![GitHub Info](https://stats.justsong.cn/api/github?username=Dragon1573&theme=dark)
-![CSDN Info](https://stats.justsong.cn/api/csdn?id=u011367208&theme=dark)
+[![GitHub Info](https://stats.justsong.cn/api/github?username=Dragon1573&theme=dark)](https://github.com/Dragon1573)
+[![CSDN Info](https://stats.justsong.cn/api/csdn?id=u011367208&theme=dark)](https://blog.csdn.net/u011367208)
 
-![Leetcode-CN Info](https://stats.justsong.cn/api/leetcode/?username=Dragon1573&cn=true&theme=dark)
-![Bilibili Info](https://stats.justsong.cn/api/bilibili/?id=289561900&theme=dark)
+[![Leetcode-CN Info](https://stats.justsong.cn/api/leetcode/?username=Dragon1573&cn=true&theme=dark)](https://leetcode-cn.com/u/dragon1573/)
+[![Bilibili Info](https://stats.justsong.cn/api/bilibili/?id=289561900&theme=dark)](https://space.bilibili.com/289561900)
