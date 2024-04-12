@@ -9,7 +9,7 @@ This is [@Dragon1573](https://github.com/Dragon1573), welcome to my GitHub Profi
 |       Informations        |               Details               |       Informations        |               Details               |
 |:-------------------------:|:-----------------------------------:|:-------------------------:|:-----------------------------------:|
 |          Gender           |             Undisclosed             | Main Programming Language |              Python 3               |
-|           Birth           |             April, 1999             |            Job            |       Operations Specialist         |
+|           Birth           |             April, 1999             |            Job            |       Environment Specialist        |
 |           Major           | Data Science & Big Data Technology  |   Native Human Language   |  Simplified Chinese<br />Cantonese  |
 |         Education         |           Undergraduates            |          Hobbies          |      Badminton<br />Traveling       |
 
