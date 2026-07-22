@@ -23,6 +23,6 @@ This is [@Dragon1573](https://github.com/Dragon1573), welcome to my GitHub Profi
   </a>
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=Dragon1573&theme=dark)](https://github.com/Dragon1573)
-[![CSDN Info](https://stats.justsong.cn/api/csdn?id=u011367208&theme=dark)](https://blog.csdn.net/u011367208)
+[![Bilibili Info](https://stats.justsong.cn/api/bilibili?id=289561900&theme=dark)](https://space.bilibili.com/289561900)
   
 </div>
